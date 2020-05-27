@@ -52,10 +52,9 @@ You can find more information at these links:
 -->
 | Feature | Description | Other Notes |
 |---------|-------------|-------------|
-| LED        |             |             |
-| Thermometer        |             |             |
-|  Buzzer       |             |             |
-|         |             |             |
+| LED        |  Light that changes colours according to program        |    Red over 20 degrees, Green/Pink at 18-19 Degrees,Blue at 15-18 Degrees       |
+| Thermometer        |     Measures the tempreature in the room        |  Avg range is 15- 25 Degrees Celsuis            |
+|  Buzzer       |  Plays a specific tone when the room tempreature reaches a certain level|    Over 20 no tone, 18-19 tone 12, 15-18 tone 31       |
 
 ![sketch](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Screen%20Shot%202020-05-26%20at%2010.53.43%20PM.png)
 
