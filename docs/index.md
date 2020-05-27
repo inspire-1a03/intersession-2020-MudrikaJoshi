@@ -58,14 +58,8 @@ You can find more information at these links:
 |         |             |             |
 
 ![sketch](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Screen%20Shot%202020-05-26%20at%2010.53.43%20PM.png)
-<!--
-Below is an example of embedding a YouTube video in a markdown document for use in GitHub pages. 
-Note that this video won't show when previewing the document in GitHub--it only works on the GitHub pages webpage. 
-- Once your YouTube video is uploaded, right click and select ```<> Copy embed code```. 
-- You can paste this code directly into your markdown document. 
-- Note that you may want to adjust the width and height parameters to make it fit well in your webpage
--->
 
+DEVICE VIDEO PITCH:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_WYz5-PUeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
