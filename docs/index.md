@@ -1,11 +1,4 @@
 Mudrika's Page
-## 
-<!--
-Hello and welcome to my page. This is my first experince with electronics and github. I am very excited to be taking this module!
-I'll be working through examples and creating a device over the course of a week. 
-Take a scroll though the page to see my progress and results. 
--->
-
 
 ## Day 1: Reflection
 <!--
