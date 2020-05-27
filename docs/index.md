@@ -43,7 +43,7 @@ Finally, record a short (30 second) video of a 'product pitch' for your device.
 |Buzzer |Plays a specific tone when the room tempreature reaches a certain level|Over 20 no tone, 18-19 tone 12, 15-18 tone 31 |
 
 
-![sketch](Colour and tone code .jpg)
+![Sketch](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Colour%20and%20tone%20code%20.jpg)
 
 DEVICE VIDEO PITCH:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_WYz5-PUeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
