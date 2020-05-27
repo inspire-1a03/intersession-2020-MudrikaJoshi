@@ -24,7 +24,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
-[Here is a link to my Arduino sketch for day 2](RGB_LED.ino)
+[Here is a link to my Arduino sketch for day 2](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/RGB_LED.ino)
 
 
 
@@ -41,6 +41,7 @@ In ~300 words, provide a final device description and product pitch:
 Finally, record a short (30 second) video of a 'product pitch' for your device. 
 - Upload the video to Youtube, and use the sample code below to embed your video.
 -->
+[Here is a link to the sketch for the decive I made!](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/Final_code_.ino)
 
 
 <!--
