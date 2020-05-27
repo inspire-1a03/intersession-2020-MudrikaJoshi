@@ -7,9 +7,5 @@ relative_links:
 include:
 
 title: Mudrika's Page 
-description: Hello and welcome to my page. This is my first experience with electronics and GitHub. I am very excited to be taking this module!
-I'll be working through examples and creating a device over the course of a week. 
-Take a scroll though the page to see my progress and results. 
-
-
+description: 
 theme: jekyll-theme-minimal
