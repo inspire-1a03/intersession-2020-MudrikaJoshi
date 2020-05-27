@@ -1,13 +1,11 @@
 Electronics for the rest of us!
 
 ## Day 1: Reflection
-<!--
-In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 
-You're also asked to insert a photo that represents your accomplishments on your first day. 
-- Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
-- Then, insert your photo into your document by modifying the markdown example that has been inserted below.
--->
+
+The first day of this module was quite informative for me. We went over an introduction to the module and due to the kits not arriving on time we skipped ahead and went over how to use Github. This was my first time using the program and I had some issues with creating a repository. My problems were resolved with assistance and I think that going forward practicing  the functions of the website will help me with this issue.  I come from a Commerce background  and am currently finishing up my third year in the program. This course initially sparked my attention when I saw a post on avenue about a new course being offered in the spring term. As I am finishing up my degree I wanted to take more courses that are not related to my specialization to widen my horizons. The electronics module came into my interest as I have never taken a course related to electronics/coding or even done it for leisure. This seemed like an excellent opportunity to learn something new. My expectations from this course are to establish an introduction to GitHub and learn to learn basic info about how circuit boards work. The only background I have is from high school science, where I vaguely remember series and parallel circuits. I hope to use this week gain my understanding of circuits and even create a device that can be used to perform an everyday activity. 
+>
+
 
 <!--
 Inserting an image takes the form: 
