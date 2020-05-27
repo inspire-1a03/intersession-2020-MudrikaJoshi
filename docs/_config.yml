@@ -6,7 +6,7 @@ relative_links:
   collections: true
 include:
 
-title: edit your title in /docs/_config.yml
+title: Mudrika's Page 
 description: edit your description in /docs/_config.yml
 
 theme: jekyll-theme-minimal
