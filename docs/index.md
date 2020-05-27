@@ -24,6 +24,10 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
+[Here is a link to my Arduino sketch for day 2](github-RGB_LED.ino)
+
+
+
 
 ## Arduino build-off results
 <!--
