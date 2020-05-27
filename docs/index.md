@@ -20,20 +20,11 @@ The device that I made today works as a weather station. It reads the temperatur
 
 
 ## Arduino build-off results
-<!--
-Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
-In ~300 words, provide a final device description and product pitch: 
-- What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
-- Describe briefly how it works.
-- How could it be used in everyday life (or maybe just in rare cases)? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
-- Include a snippet of code using the ``` ``` characters to display the code properly. 
-Finally, record a short (30 second) video of a 'product pitch' for your device. 
-- Upload the video to Youtube, and use the sample code below to embed your video.
--->
+
 [Here is a link to the sketch for the decive I made!](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/Final_code_.ino)
 
 
+The device created is a weather station, it can be used to monitor the temperature in a room or even at a larger scale such as a measure the temperature outside. The device works by using a thermistor and reading the temperature in the room. The thermistor is connected to an LED bulb that changes colours. This device has been programmed to turn red when the temperature is over 20 degrees, go green and play a specific tone when it is between 18-19 degrees or any other temperature that is not stated and turns blue and plays a different tone when the temperature reads 15-18 degrees. All the components are connected to a breadboard, circuit, and computer that monitors the readings and makes necessary changes. This device can be useful in monitoring the temperature for extremely temperature-sensitive things such as certain breeds of animals and even ice sculptures. Some animals that are kept in captivity away from their natal environment may need to be kept in temperature-controlled areas, this device can help monitor and notify you if and when there is a change. The weather station can also be used at a larger scale to monitor the temperature of a city and record any changes during the day. 
 
 
 | Feature | Description | Other Notes |
@@ -45,14 +36,19 @@ Finally, record a short (30 second) video of a 'product pitch' for your device.
 
 ![Sketch](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Colour%20and%20tone%20code%20.jpg)
 
+   
+
+The code above shows the differnt conditions that must be present for the Ardunio to perform the function. 
+
+     
+
+
+
 DEVICE VIDEO PITCH:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_WYz5-PUeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 
 
 ## Final reflection & summary
-<!--
-In ~300 words:
-- Summarize your experience in this module. What you learned, what you liked, what you found challenging.
-- Reflect upon your learning and its relevance in your life.
--->
+
+My experience in this module has been unique and rewarding. It was my first time using a circuit board and software to make a device that would serve a useful purpose. The experience was also very rewarding. After multiple attempts to make the code work or trial and error in the wiring; I felt a sense of reward to see the finished product that would do what it was programmed to. The initial days of the module were tougher than the latter since the material was so new to me. I found the more I practiced the fewer complications I came across. I learned how to problem-solve while working on a hands-on task that has a direct result, as opposed to the theoretical problem solving I am used to doing. I liked that even though the module was delivered online, there was no significant comprise of learning. This was an opportunity to develop technical skills and practice “working from home”, as it will be emphasized in the coming weeks and months. I had some difficulties in understanding the software initially, but those were solved through the meetings on zoom. One major difficulty for me was the hardware. When creating a device I kept on coming to a road bump when installing the buzzer. The sketch was running, but there was no noise. Luckily, I had been sent two kits in the mail and the other one arrived on the last day of the module and it had a functioning buzzer. I have defiantly learned skills very different from my major and can even use some of them in the future. For example, GitHub can be used to make a webpage and now that I know the basics it will be simple for me to do. I have also learned basic wiring skills that I may be able to use when installing the next light fixture in my home (eg. Connect the wire to ground and 5v for power). All in all, it was a great experience and I am very fortunate to have had the opportunity to take this module!
