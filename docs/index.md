@@ -35,9 +35,10 @@ The device created is a weather station, it can be used to monitor the temperatu
 
 
 
+Ardunio Sketch Code: 
+
 ![Code](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Colour%20and%20tone%20code%20.jpg)
 
-   
 
 The code above shows the differnt conditions that must be present for the Ardunio to perform the function. 
 
