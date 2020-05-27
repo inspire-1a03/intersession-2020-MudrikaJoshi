@@ -57,7 +57,7 @@ You can find more information at these links:
 |  Buzzer       |             |             |
 |         |             |             |
 
-![Sketch](docs/Screen Shot 2020-05-26 at 10.53.43 PM.png)
+![sketch](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Screen%20Shot%202020-05-26%20at%2010.53.43%20PM.png)
 <!--
 Below is an example of embedding a YouTube video in a markdown document for use in GitHub pages. 
 Note that this video won't show when previewing the document in GitHub--it only works on the GitHub pages webpage. 
