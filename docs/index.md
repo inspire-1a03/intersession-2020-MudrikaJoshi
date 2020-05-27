@@ -1,8 +1,9 @@
 Mudrika's Page
+## 
 <!--
-Hello and welcome to my page. I'll be working through examples and creating a device over the course of a week! 
-A place for each deliverable has been created below for you in this markdown document. 
-Note that comments (such as this) will not appear in the final markdown document (which you can view with the "Preview" button).
+Hello and welcome to my page. This is my first experince with electronics and github. I am very excited to be taking this module!
+I'll be working through examples and creating a device over the course of a week. 
+Take a scroll though the page to see my progress and results. 
 -->
 
 
