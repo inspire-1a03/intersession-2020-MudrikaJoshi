@@ -1,4 +1,4 @@
-Mudrika's Page
+Electronics for the rest of us!
 
 ## Day 1: Reflection
 <!--
@@ -49,9 +49,9 @@ You can find more information at these links:
 -->
 | Feature | Description | Other Notes |
 |---------|-------------|-------------|
-|         |             |             |
-|         |             |             |
-|         |             |             |
+| LED        |             |             |
+| Thermometer        |             |             |
+|  Buzzer       |             |             |
 |         |             |             |
 
 
