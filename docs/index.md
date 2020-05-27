@@ -34,7 +34,8 @@ The device created is a weather station, it can be used to monitor the temperatu
 |Buzzer |Plays a specific tone when the room tempreature reaches a certain level|Over 20 no tone, 18-19 tone 12, 15-18 tone 31 |
 
 
-![Sketch](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Colour%20and%20tone%20code%20.jpg)
+
+![Code](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/docs/Colour%20and%20tone%20code%20.jpg)
 
    
 
