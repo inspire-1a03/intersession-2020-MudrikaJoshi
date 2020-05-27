@@ -26,6 +26,8 @@ Provide a short (~150 words) summary of your work on this circuit:
 -->
 [Here is a link to my Arduino sketch for day 2](https://github.com/inspire-1a03/intersession-2020-MudrikaJoshi/blob/master/RGB_LED.ino)
 
+The device that I made today works as a weather station. It reads the temperature of the room from a thermistor and an led lights up when the temperatures reach a certain number. The range is from 15 to 20 degrees. The most challenging part of making this device was getting the wiring to be correct and making the code set to the right temperatures. The wiring was the first challenge I dealt with, the light on the LED was not turning on at first; I had to change the wiring on the breadboard as my divide had a common cathode. The second challenge was the code on Arduino, the temperature is not very high in my room and it is hard to get it to 30 degrees, so I changed the code to a lower temperature to make my decide easily compatible with the room.
+
 
 
 
